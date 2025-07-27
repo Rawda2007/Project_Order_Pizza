@@ -1,0 +1,219 @@
+﻿  project3 OOP.cpp
+C:\Users\Lenovo\OneDrive\المستندات\Project VS OPP\project1 OOP\project 2 OOP\project 3 OOP\project3 OOP\project3 OOP\clsString.h(41,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'project3%20OOP.cpp')
+  
+C:\Users\Lenovo\OneDrive\المستندات\Project VS OPP\project1 OOP\project 2 OOP\project 3 OOP\project3 OOP\project3 OOP\clsString.h(46,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'project3%20OOP.cpp')
+  
+C:\Users\Lenovo\OneDrive\المستندات\Project VS OPP\project1 OOP\project 2 OOP\project 3 OOP\project3 OOP\project3 OOP\clsString.h(58,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'project3%20OOP.cpp')
+  
+C:\Users\Lenovo\OneDrive\المستندات\Project VS OPP\project1 OOP\project 2 OOP\project 3 OOP\project3 OOP\project3 OOP\clsString.h(195,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'project3%20OOP.cpp')
+  
+C:\Users\Lenovo\OneDrive\المستندات\Project VS OPP\project1 OOP\project 2 OOP\project 3 OOP\project3 OOP\project3 OOP\clsString.h(326,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'project3%20OOP.cpp')
+  
+C:\Users\Lenovo\OneDrive\المستندات\Project VS OPP\project1 OOP\project 2 OOP\project 3 OOP\project3 OOP\project3 OOP\clsString.h(374,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'project3%20OOP.cpp')
+  
+C:\Users\Lenovo\OneDrive\المستندات\Project VS OPP\project1 OOP\project 2 OOP\project 3 OOP\project3 OOP\project3 OOP\clsBankClient.h(27,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'project3%20OOP.cpp')
+  
+C:\Users\Lenovo\OneDrive\المستندات\Project VS OPP\project1 OOP\project 2 OOP\project 3 OOP\project3 OOP\project3 OOP\clsInputValidate.h(101,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'project3%20OOP.cpp')
+  
+C:\Users\Lenovo\OneDrive\المستندات\Project VS OPP\project1 OOP\project 2 OOP\project 3 OOP\project3 OOP\project3 OOP\clsInputValidate.h(105,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'project3%20OOP.cpp')
+  
+C:\Users\Lenovo\OneDrive\المستندات\Project VS OPP\project1 OOP\project 2 OOP\project 3 OOP\project3 OOP\project3 OOP\clsInputValidate.h(154,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'project3%20OOP.cpp')
+  
+C:\Users\Lenovo\OneDrive\المستندات\Project VS OPP\project1 OOP\project 2 OOP\project 3 OOP\project3 OOP\project3 OOP\clsInputValidate.h(184,4): warning C4102: 'defult': unreferenced label
+  (compiling source file 'project3%20OOP.cpp')
+  
+C:\Users\Lenovo\OneDrive\المستندات\Project VS OPP\project1 OOP\project 2 OOP\project 3 OOP\project3 OOP\project3 OOP\project3 OOP.cpp(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Lenovo\OneDrive\المستندات\Project VS OPP\project1 OOP\project 2 OOP\project 3 OOP\project3 OOP\project3 OOP\project3 OOP.cpp(5,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Lenovo\OneDrive\المستندات\Project VS OPP\project1 OOP\project 2 OOP\project 3 OOP\project3 OOP\project3 OOP\clsScreen.h(3,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'project3%20OOP.cpp')
+  
+C:\Users\Lenovo\OneDrive\المستندات\Project VS OPP\project1 OOP\project 2 OOP\project 3 OOP\project3 OOP\project3 OOP\clsScreen.h(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'project3%20OOP.cpp')
+  
+C:\Users\Lenovo\OneDrive\المستندات\Project VS OPP\project1 OOP\project 2 OOP\project 3 OOP\project3 OOP\project3 OOP\Global.h(2,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'project3%20OOP.cpp')
+  
+C:\Users\Lenovo\OneDrive\المستندات\Project VS OPP\project1 OOP\project 2 OOP\project 3 OOP\project3 OOP\project3 OOP\clsScreen.h(5,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'project3%20OOP.cpp')
+  
+C:\Users\Lenovo\OneDrive\المستندات\Project VS OPP\project1 OOP\project 2 OOP\project 3 OOP\project3 OOP\project3 OOP\clsMainScreen.h(6,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'project3%20OOP.cpp')
+  
+C:\Users\Lenovo\OneDrive\المستندات\Project VS OPP\project1 OOP\project 2 OOP\project 3 OOP\project3 OOP\project3 OOP\clsClientList.h(3,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'project3%20OOP.cpp')
+  
+C:\Users\Lenovo\OneDrive\المستندات\Project VS OPP\project1 OOP\project 2 OOP\project 3 OOP\project3 OOP\project3 OOP\clsClientList.h(5,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'project3%20OOP.cpp')
+  
+C:\Users\Lenovo\OneDrive\المستندات\Project VS OPP\project1 OOP\project 2 OOP\project 3 OOP\project3 OOP\project3 OOP\clsClientList.h(17,13): warning C4101: 'sum': unreferenced local variable
+  (compiling source file 'project3%20OOP.cpp')
+  
+C:\Users\Lenovo\OneDrive\المستندات\Project VS OPP\project1 OOP\project 2 OOP\project 3 OOP\project3 OOP\project3 OOP\clsMainScreen.h(7,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'project3%20OOP.cpp')
+  
+C:\Users\Lenovo\OneDrive\المستندات\Project VS OPP\project1 OOP\project 2 OOP\project 3 OOP\project3 OOP\project3 OOP\clsAddClient.h(3,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'project3%20OOP.cpp')
+  
+C:\Users\Lenovo\OneDrive\المستندات\Project VS OPP\project1 OOP\project 2 OOP\project 3 OOP\project3 OOP\project3 OOP\clsAddClient.h(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'project3%20OOP.cpp')
+  
+C:\Users\Lenovo\OneDrive\المستندات\Project VS OPP\project1 OOP\project 2 OOP\project 3 OOP\project3 OOP\project3 OOP\clsAddClient.h(5,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'project3%20OOP.cpp')
+  
+C:\Users\Lenovo\OneDrive\المستندات\Project VS OPP\project1 OOP\project 2 OOP\project 3 OOP\project3 OOP\project3 OOP\clsAddClient.h(31,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'project3%20OOP.cpp')
+  
+C:\Users\Lenovo\OneDrive\المستندات\Project VS OPP\project1 OOP\project 2 OOP\project 3 OOP\project3 OOP\project3 OOP\clsMainScreen.h(8,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'project3%20OOP.cpp')
+  
+C:\Users\Lenovo\OneDrive\المستندات\Project VS OPP\project1 OOP\project 2 OOP\project 3 OOP\project3 OOP\project3 OOP\clsDeletClient.h(3,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'project3%20OOP.cpp')
+  
+C:\Users\Lenovo\OneDrive\المستندات\Project VS OPP\project1 OOP\project 2 OOP\project 3 OOP\project3 OOP\project3 OOP\clsDeletClient.h(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'project3%20OOP.cpp')
+  
+C:\Users\Lenovo\OneDrive\المستندات\Project VS OPP\project1 OOP\project 2 OOP\project 3 OOP\project3 OOP\project3 OOP\clsDeletClient.h(5,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'project3%20OOP.cpp')
+  
+C:\Users\Lenovo\OneDrive\المستندات\Project VS OPP\project1 OOP\project 2 OOP\project 3 OOP\project3 OOP\project3 OOP\clsMainScreen.h(9,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'project3%20OOP.cpp')
+  
+C:\Users\Lenovo\OneDrive\المستندات\Project VS OPP\project1 OOP\project 2 OOP\project 3 OOP\project3 OOP\project3 OOP\clsUpdateClient.h(3,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'project3%20OOP.cpp')
+  
+C:\Users\Lenovo\OneDrive\المستندات\Project VS OPP\project1 OOP\project 2 OOP\project 3 OOP\project3 OOP\project3 OOP\clsUpdateClient.h(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'project3%20OOP.cpp')
+  
+C:\Users\Lenovo\OneDrive\المستندات\Project VS OPP\project1 OOP\project 2 OOP\project 3 OOP\project3 OOP\project3 OOP\clsUpdateClient.h(5,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'project3%20OOP.cpp')
+  
+C:\Users\Lenovo\OneDrive\المستندات\Project VS OPP\project1 OOP\project 2 OOP\project 3 OOP\project3 OOP\project3 OOP\clsUpdateClient.h(29,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'project3%20OOP.cpp')
+  
+C:\Users\Lenovo\OneDrive\المستندات\Project VS OPP\project1 OOP\project 2 OOP\project 3 OOP\project3 OOP\project3 OOP\clsMainScreen.h(10,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'project3%20OOP.cpp')
+  
+C:\Users\Lenovo\OneDrive\المستندات\Project VS OPP\project1 OOP\project 2 OOP\project 3 OOP\project3 OOP\project3 OOP\clsFindClient.h(3,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'project3%20OOP.cpp')
+  
+C:\Users\Lenovo\OneDrive\المستندات\Project VS OPP\project1 OOP\project 2 OOP\project 3 OOP\project3 OOP\project3 OOP\clsFindClient.h(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'project3%20OOP.cpp')
+  
+C:\Users\Lenovo\OneDrive\المستندات\Project VS OPP\project1 OOP\project 2 OOP\project 3 OOP\project3 OOP\project3 OOP\clsFindClient.h(5,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'project3%20OOP.cpp')
+  
+C:\Users\Lenovo\OneDrive\المستندات\Project VS OPP\project1 OOP\project 2 OOP\project 3 OOP\project3 OOP\project3 OOP\clsMainScreen.h(11,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'project3%20OOP.cpp')
+  
+C:\Users\Lenovo\OneDrive\المستندات\Project VS OPP\project1 OOP\project 2 OOP\project 3 OOP\project3 OOP\project3 OOP\clsTransactions.h(6,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'project3%20OOP.cpp')
+  
+C:\Users\Lenovo\OneDrive\المستندات\Project VS OPP\project1 OOP\project 2 OOP\project 3 OOP\project3 OOP\project3 OOP\clsTransfer.h(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'project3%20OOP.cpp')
+  
+C:\Users\Lenovo\OneDrive\المستندات\Project VS OPP\project1 OOP\project 2 OOP\project 3 OOP\project3 OOP\project3 OOP\clsTransfer.h(5,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'project3%20OOP.cpp')
+  
+C:\Users\Lenovo\OneDrive\المستندات\Project VS OPP\project1 OOP\project 2 OOP\project 3 OOP\project3 OOP\project3 OOP\clsTransfer.h(6,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'project3%20OOP.cpp')
+  
+C:\Users\Lenovo\OneDrive\المستندات\Project VS OPP\project1 OOP\project 2 OOP\project 3 OOP\project3 OOP\project3 OOP\clsTransfer.h(7,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'project3%20OOP.cpp')
+  
+C:\Users\Lenovo\OneDrive\المستندات\Project VS OPP\project1 OOP\project 2 OOP\project 3 OOP\project3 OOP\project3 OOP\clsTransactions.h(36,22): warning C4244: 'initializing': conversion from 'double' to 'short', possible loss of data
+  (compiling source file 'project3%20OOP.cpp')
+  
+C:\Users\Lenovo\OneDrive\المستندات\Project VS OPP\project1 OOP\project 2 OOP\project 3 OOP\project3 OOP\project3 OOP\clsTransactions.h(148,25): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'project3%20OOP.cpp')
+  
+C:\Users\Lenovo\OneDrive\المستندات\Project VS OPP\project1 OOP\project 2 OOP\project 3 OOP\project3 OOP\project3 OOP\clsMainScreen.h(12,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'project3%20OOP.cpp')
+  
+C:\Users\Lenovo\OneDrive\المستندات\Project VS OPP\project1 OOP\project 2 OOP\project 3 OOP\project3 OOP\project3 OOP\clsManageUsers.h(6,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'project3%20OOP.cpp')
+  
+C:\Users\Lenovo\OneDrive\المستندات\Project VS OPP\project1 OOP\project 2 OOP\project 3 OOP\project3 OOP\project3 OOP\clsManageUsers.h(7,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'project3%20OOP.cpp')
+  
+C:\Users\Lenovo\OneDrive\المستندات\Project VS OPP\project1 OOP\project 2 OOP\project 3 OOP\project3 OOP\project3 OOP\clsManageUsers.h(8,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'project3%20OOP.cpp')
+  
+C:\Users\Lenovo\OneDrive\المستندات\Project VS OPP\project1 OOP\project 2 OOP\project 3 OOP\project3 OOP\project3 OOP\clsManageUsers.h(9,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'project3%20OOP.cpp')
+  
+C:\Users\Lenovo\OneDrive\المستندات\Project VS OPP\project1 OOP\project 2 OOP\project 3 OOP\project3 OOP\project3 OOP\clsManageUsers.h(10,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'project3%20OOP.cpp')
+  
+C:\Users\Lenovo\OneDrive\المستندات\Project VS OPP\project1 OOP\project 2 OOP\project 3 OOP\project3 OOP\project3 OOP\clsManageUsers.h(11,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'project3%20OOP.cpp')
+  
+C:\Users\Lenovo\OneDrive\المستندات\Project VS OPP\project1 OOP\project 2 OOP\project 3 OOP\project3 OOP\project3 OOP\clsManageUsers.h(24,22): warning C4244: 'initializing': conversion from 'double' to 'short', possible loss of data
+  (compiling source file 'project3%20OOP.cpp')
+  
+C:\Users\Lenovo\OneDrive\المستندات\Project VS OPP\project1 OOP\project 2 OOP\project 3 OOP\project3 OOP\project3 OOP\clsMainScreen.h(13,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'project3%20OOP.cpp')
+  
+C:\Users\Lenovo\OneDrive\المستندات\Project VS OPP\project1 OOP\project 2 OOP\project 3 OOP\project3 OOP\project3 OOP\clsMainScreen.h(14,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'project3%20OOP.cpp')
+  
+C:\Users\Lenovo\OneDrive\المستندات\Project VS OPP\project1 OOP\project 2 OOP\project 3 OOP\project3 OOP\project3 OOP\clslogInFile.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'project3%20OOP.cpp')
+  
+C:\Users\Lenovo\OneDrive\المستندات\Project VS OPP\project1 OOP\project 2 OOP\project 3 OOP\project3 OOP\project3 OOP\clslogInFile.h(8,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'project3%20OOP.cpp')
+  
+C:\Users\Lenovo\OneDrive\المستندات\Project VS OPP\project1 OOP\project 2 OOP\project 3 OOP\project3 OOP\project3 OOP\clslogInFile.h(9,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'project3%20OOP.cpp')
+  
+C:\Users\Lenovo\OneDrive\المستندات\Project VS OPP\project1 OOP\project 2 OOP\project 3 OOP\project3 OOP\project3 OOP\clsMainScreen.h(15,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'project3%20OOP.cpp')
+  
+C:\Users\Lenovo\OneDrive\المستندات\Project VS OPP\project1 OOP\project 2 OOP\project 3 OOP\project3 OOP\project3 OOP\clsCurrencyScreen.h(3,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'project3%20OOP.cpp')
+  
+C:\Users\Lenovo\OneDrive\المستندات\Project VS OPP\project1 OOP\project 2 OOP\project 3 OOP\project3 OOP\project3 OOP\clsCurrencyScreen.h(8,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'project3%20OOP.cpp')
+  
+C:\Users\Lenovo\OneDrive\المستندات\Project VS OPP\project1 OOP\project 2 OOP\project 3 OOP\project3 OOP\project3 OOP\clsCurrency.h(27,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'project3%20OOP.cpp')
+  
+C:\Users\Lenovo\OneDrive\المستندات\Project VS OPP\project1 OOP\project 2 OOP\project 3 OOP\project3 OOP\project3 OOP\clsCurrencyScreen.h(10,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'project3%20OOP.cpp')
+  
+C:\Users\Lenovo\OneDrive\المستندات\Project VS OPP\project1 OOP\project 2 OOP\project 3 OOP\project3 OOP\project3 OOP\clsCurrencyScreen.h(11,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'project3%20OOP.cpp')
+  
+C:\Users\Lenovo\OneDrive\المستندات\Project VS OPP\project1 OOP\project 2 OOP\project 3 OOP\project3 OOP\project3 OOP\clsCalculator.h(7,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'project3%20OOP.cpp')
+  
+C:\Users\Lenovo\OneDrive\المستندات\Project VS OPP\project1 OOP\project 2 OOP\project 3 OOP\project3 OOP\project3 OOP\clsCalculator.h(8,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'project3%20OOP.cpp')
+  
+C:\Users\Lenovo\OneDrive\المستندات\Project VS OPP\project1 OOP\project 2 OOP\project 3 OOP\project3 OOP\project3 OOP\clsCurrencyScreen.h(22,16): warning C4244: 'initializing': conversion from 'double' to 'short', possible loss of data
+  (compiling source file 'project3%20OOP.cpp')
+  
+C:\Users\Lenovo\OneDrive\المستندات\Project VS OPP\project1 OOP\project 2 OOP\project 3 OOP\project3 OOP\project3 OOP\clsMainScreen.h(33,22): warning C4244: 'initializing': conversion from 'double' to 'short', possible loss of data
+  (compiling source file 'project3%20OOP.cpp')
+  
+C:\Users\Lenovo\OneDrive\المستندات\Project VS OPP\project1 OOP\project 2 OOP\project 3 OOP\project3 OOP\project3 OOP\project3 OOP.cpp(6,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Lenovo\OneDrive\المستندات\Project VS OPP\project1 OOP\project 2 OOP\project 3 OOP\project3 OOP\project3 OOP\clsLogIn.h(9,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'project3%20OOP.cpp')
+  
+C:\Users\Lenovo\OneDrive\المستندات\Project VS OPP\project1 OOP\project 2 OOP\project 3 OOP\project3 OOP\project3 OOP\clsUser.h(31,1): warning C4715: 'clsUser::_ConvertLinetoUserObject': not all control paths return a value
+C:\Users\Lenovo\OneDrive\المستندات\Project VS OPP\project1 OOP\project 2 OOP\project 3 OOP\project3 OOP\project3 OOP\clslogInFile.h(61,1): warning C4715: 'clslogInFile::ConvertLineToVector': not all control paths return a value
+C:\Users\Lenovo\OneDrive\المستندات\Project VS OPP\project1 OOP\project 2 OOP\project 3 OOP\project3 OOP\project3 OOP\clsBankClient.h(294,1): warning C4715: 'clsBankClient::Save': not all control paths return a value
+C:\Users\Lenovo\OneDrive\المستندات\Project VS OPP\project1 OOP\project 2 OOP\project 3 OOP\project3 OOP\project3 OOP\clsBankClient.h(29,1): warning C4715: 'clsBankClient::_ConvertLinetoClientObject': not all control paths return a value
+C:\Users\Lenovo\OneDrive\المستندات\Project VS OPP\project1 OOP\project 2 OOP\project 3 OOP\project3 OOP\project3 OOP\clsTransfer.h(193,1): warning C4715: 'clsTransfer::ConvertLineToVector': not all control paths return a value
+C:\Users\Lenovo\OneDrive\المستندات\Project VS OPP\project1 OOP\project 2 OOP\project 3 OOP\project3 OOP\project3 OOP\clsInputValidate.h(207,1): warning C4715: 'clsInputValidate::convert': not all control paths return a value
+C:\Users\Lenovo\OneDrive\المستندات\Project VS OPP\project1 OOP\project 2 OOP\project 3 OOP\project3 OOP\project3 OOP\clsUser.h(310,1): warning C4715: 'clsUser::Save': not all control paths return a value
+  project3 OOP.vcxproj -> C:\Users\Lenovo\OneDrive\المستندات\Project VS OPP\project1 OOP\project 2 OOP\project 3 OOP\project3 OOP\x64\Debug\project3 OOP.exe
